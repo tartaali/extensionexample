@@ -1,7 +1,7 @@
 You should copy this code to your ide 
 
 
-import com.google.appinventor.components.annotations.DesignerComponent;
+   import com.google.appinventor.components.annotations.DesignerComponent;
 import com.google.appinventor.components.annotations.SimpleObject;
 import com.google.appinventor.components.annotations.SimpleFunction;
 import com.google.appinventor.components.annotations.SimpleEvent;
